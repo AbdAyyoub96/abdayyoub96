@@ -1,160 +1,207 @@
-# 👋 مرحبًا، أنا عبد الرحمن أيوب
-## Abd Al-Rahman Ayyoub  
-**Abdayyoub96**
-
-مبرمج تطبيقات موبايل **Senior React Native Developer** ومصمم تطبيقات (UI/UX)، عندي خبرة أكثر من **6 سنوات** في تطوير تطبيقات iOS وAndroid باستخدام React Native، مع تركيز قوي على الأداء، البنية النظيفة، وتجربة المستخدم.
-
-أعمل حاليًا كمطوّر موبايل بدوام كامل في **Ejada** على مشاريع مؤسسية وبنكية، بالإضافة إلى عملي كمطوّر مستقل على عدة تطبيقات ومنصات رقمية.
-
----
-
-## 🧩 المشاريع التي أعمل عليها (Projects)
-
-### 📱 ReactHive
-منصة اجتماعية وتجريبية تعتمد على فكرة التجارب والتفاعل الاجتماعي.
-- Mobile App: React Native  
-- Backend: .NET  
-- Admin & Vendor Panels: Angular  
-- Notifications: Firebase  
-- Cloud: Azure  
-
----
-
-### 🏦 تطبيقات بنكية (Enterprise Banking Apps)
-أعمل ضمن فرق تطوير على تطبيقات بنكية عالية الاعتمادية تشمل:
-- شاشات مالية معقدة
-- معاملات وحركات حساب
-- تكامل مع أنظمة داخلية
-- معايير أمان وأداء عالية
-
----
-
-### 🛍 My Kids Place
-تطبيق متجر إلكتروني مخصص لمنتجات الأطفال.
-- تصميم UI/UX
-- React Native Mobile App
-- تجربة مستخدم مبسطة وسلسة
-
----
-
-### 🚚 Lorry Carrier
-تطبيق نقل وخدمات لوجستية:
-- تطبيق خاص بالسائقين
-- تطبيق خاص بالمستخدمين
-- إدارة الطلبات والرحلات
-
----
-
-### 🧪 مشاريع مستقلة (Freelance Projects)
-- تطبيقات طلب خدمات
-- أنظمة عروض أسعار
-- تطبيقات شركات ومطاعم
-- لوحات تحكم Admin Panels
-
----
-
-## 🛠 التقنيات المستخدمة
-- **Mobile:** React Native, JavaScript, TypeScript  
-- **State Management:** Redux, Context API, Zustand  
-- **Backend Integration:** REST APIs, .NET Core  
-- **Admin Panels:** Angular  
-- **Cloud & Services:** Firebase, Azure  
-- **Tools:** Git, CI/CD  
-
----
-
-## 🎯 أسلوبي في العمل
-- كتابة كود نظيف وقابل للتوسع  
-- تصميم تطبيقات سهلة الاستخدام  
-- التركيز على الحلول العملية وليس فقط الكود  
-- فهم متطلبات البزنس وتحويلها لتطبيق فعلي  
-
----
-
-## 📫 معلومات التواصل
-- **GitHub:** @abdayyoub96  
-- **Email:** abdayyoub96@outlook.com  
-- **Phone:** +962 79 836 3493  
-- **Location:** Amman, Jordan  
-
----
-
----
-
 # 👋 Hi, I'm Abd Al-Rahman Ayyoub  
-## Abdayyoub96
+### Senior React Native Developer | Mobile Engineer
 
-I'm a **Senior React Native Developer** and **Mobile App Designer** with over **6+ years of experience** building high-quality, scalable mobile applications for iOS and Android.
+🚀 I build scalable, production-ready mobile applications using **React Native**, focusing on performance, clean architecture, and real-world business solutions.
 
-I currently work full-time as a Mobile Developer at **Ejada**, contributing to enterprise and banking applications, and I also work as a freelance developer on multiple mobile platforms and startup projects.
+With **6+ years of experience**, I have worked on enterprise-grade systems across **banking, fintech, logistics, healthcare, and digital platforms**, delivering reliable and maintainable mobile applications.
 
----
-
-## 🧩 Projects I’m Working On
-
-### 📱 ReactHive
-A social experience-based mobile platform.
-- Mobile App: React Native  
-- Backend: .NET  
-- Admin & Vendor Panels: Angular  
-- Notifications: Firebase  
-- Cloud: Azure  
+🌐 **Portfolio:**  
+https://abdayyoub.dev
 
 ---
 
-### 🏦 Enterprise Banking Applications
-Working on large-scale banking systems including:
-- Financial dashboards
-- Transactions & statements
-- Secure system integrations
-- High performance & security standards
+# 💼 What I Do
+
+✔ Build scalable mobile applications  
+✔ Develop enterprise-level systems  
+✔ Integrate APIs & third-party services  
+✔ Optimize performance and reliability  
+✔ Publish apps to App Store & Google Play  
+✔ Deliver production-ready mobile solutions  
 
 ---
 
-### 🛍 My Kids Place
-An e-commerce mobile application for kids products.
-- UI/UX Design
-- React Native Mobile App
-- Smooth shopping experience
+# 🧩 Featured Projects
+
+## 📱 ReactHive  
+A multi-module mobile platform that includes:
+
+- Social interaction platform (posts, comments, reactions)  
+- Tourism and booking system  
+
+**Tech Stack:**  
+- React Native  
+- .NET Backend  
+- Angular Admin Panels  
+- Firebase Notifications  
+- Azure Cloud  
 
 ---
 
-### 🚚 Lorry Carrier
-Logistics and transportation platform:
-- Driver mobile application
-- User mobile application
-- Order & trip management
+## 🏦 Al Rajhi Bank Applications (Ejada)
+
+Worked on enterprise-level banking mobile applications used in production environments.
+
+**Responsibilities included:**
+
+- Financial dashboards  
+- Transaction systems  
+- Secure authentication workflows  
+- Enterprise API integration  
+- Performance optimization  
+- Production-ready mobile delivery  
 
 ---
 
-### 🧪 Freelance Projects
-- Service booking applications
-- Quotation & pricing systems
-- Company & restaurant apps
-- Admin dashboards
+## 💳 Emkan Finance (Ejada)
+
+Financial services mobile application integrated with banking systems.
+
+**Focus Areas:**
+
+- Loan and finance workflows  
+- Secure system integration  
+- API-driven architecture  
+- Production deployment  
 
 ---
 
-## 🛠 Tech Stack
-- **Mobile:** React Native, JavaScript, TypeScript  
-- **State Management:** Redux, Context API, Zustand  
-- **Backend Integration:** REST APIs, .NET Core  
-- **Admin Panels:** Angular  
-- **Cloud & Services:** Firebase, Azure  
-- **Tools:** Git, CI/CD  
+# 🚀 Major Production Projects
+
+## 🚚 Lorry Platform  
+Logistics and transportation platform.
+
+**Includes:**
+
+- Driver Application  
+- Customer Application  
+- Trip and order management  
+- Real-time operations  
 
 ---
 
-## 🎯 Work Philosophy
-- Clean & scalable architecture  
-- User-focused app design  
-- Business-oriented thinking  
-- Reliable, production-ready solutions  
+## 🚖 VelozTaxi  
+Ride-hailing mobile application similar to Uber/Careem.
+
+**Key Features:**
+
+- Ride booking  
+- Location tracking  
+- Driver-user communication  
 
 ---
 
-## 📫 Contact
-- **GitHub:** @abdayyoub96  
-- **Email:** abdayyoub96@outlook.com  
-- **Phone:** +962 79 836 3493  
-- **Location:** Amman, Jordan  
+## 🛍 My Kids Place  
+E-commerce mobile application specialized in outlet clothing.
+
+**Focus Areas:**
+
+- UI/UX Design  
+- Shopping experience  
+- Mobile performance  
+
+---
+
+## 🏥 Elite  
+Medical system for managing doctors and clinic workflows.
+
+---
+
+## 🦷 SmileLab  
+Dental clinic booking and treatment management system.
+
+**Includes:**
+
+- Appointment scheduling  
+- Treatment management  
+- Patient workflows  
+
+---
+
+## 🏗 Mawad  
+Mobile application for selling construction materials.
+
+---
+
+## 🌱 RoyalFarm  
+Farm management system.
+
+**Key Features:**
+
+- Fertilizer scheduling  
+- Harvest tracking  
+- Farm workflow management  
+
+---
+
+## 📱 Glory  
+Wholesale mobile accessories platform.
+
+---
+
+# 🛠 Tech Stack
+
+## 📱 Mobile Development
+- React Native  
+- JavaScript  
+- TypeScript  
+- iOS Development  
+- Android Development  
+- Cross-Platform Development  
+
+## 🔌 APIs & Integration
+- REST APIs  
+- Swagger  
+- Postman  
+- Authentication Systems  
+- Payment Integration  
+
+## 🗺 Maps & Services
+- Google Maps  
+- MapBox  
+- Firebase  
+- Push Notifications  
+- Deep Linking  
+- Meta Developer (Facebook SDK)
+
+## 🚀 Deployment & Release
+- Apple App Store Connect  
+- Google Play Console  
+- TestFlight  
+- App Deployment  
+- Release Management  
+
+## 🧰 Tools & Workflow
+- Git  
+- GitHub  
+- CI/CD  
+- Agile Methodologies  
+- Debugging  
+- Performance Optimization  
+
+---
+
+# 🎯 Work Philosophy
+
+I focus on building:
+
+- Clean, maintainable code  
+- Scalable architectures  
+- High-performance applications  
+- Reliable production systems  
+- User-centered mobile experiences  
+
+---
+
+# 📫 Let's Connect
+
+🌐 Portfolio:  
+https://abdayyoub.dev  
+
+📧 Email:  
+**abdayyoub96@outlook.com**
+
+📍 Location:  
+Amman, Jordan  
+
+💬 Available for freelance projects and collaborations.
