@@ -1,207 +1,55 @@
-# 👋 Hi, I'm Abd Al-Rahman Ayyoub  
-### Senior React Native Developer | Mobile Engineer
+# Hi, I'm Abd Al-Rahman Ayyoub 👋
 
-🚀 I build scalable, production-ready mobile applications using **React Native**, focusing on performance, clean architecture, and real-world business solutions.
+### Senior React Native Engineer · Mobile Products · From Idea to Launch
 
-With **6+ years of experience**, I have worked on enterprise-grade systems across **banking, fintech, logistics, healthcare, and digital platforms**, delivering reliable and maintainable mobile applications.
+I help founders and businesses turn ideas into practical digital products. With **6+ years of mobile development experience**, I build and improve cross-platform applications with a focus on maintainability, performance, and real user needs.
 
-🌐 **Portfolio:**  
-https://abdayyoub.dev
+[Portfolio](https://www.abdayyoub.dev/) · [LinkedIn](https://www.linkedin.com/in/abdayyoub96/) · [Email](mailto:abdayyoub96@gmail.com)
 
 ---
 
-# 💼 What I Do
+## How I can help
 
-✔ Build scalable mobile applications  
-✔ Develop enterprise-level systems  
-✔ Integrate APIs & third-party services  
-✔ Optimize performance and reliability  
-✔ Publish apps to App Store & Google Play  
-✔ Deliver production-ready mobile solutions  
+- **Product discovery:** discuss the idea, research the market, identify user needs, and define priorities.
+- **Mobile development:** build and improve iOS and Android experiences with React Native and TypeScript.
+- **Integrations and delivery:** connect REST APIs and services, manage application state, and support testing and app releases.
+- **Project delivery:** help plan and manage the work from early discovery through launch.
+- **AI and business workflows:** explore practical automation and AI-assisted creative solutions for business needs.
 
----
+## Selected work
 
-# 🧩 Featured Projects
+| Project | My experience |
+| --- | --- |
+| **ReactHive** | Technical contributor to a travel platform combining trip discovery, booking requests, and social experiences. |
+| **Al Rajhi Bank & Emkan Finance** | Worked on mobile banking and finance applications through Ejada Systems. |
+| **VelozTaxi** | Contributed to a ride-hailing mobile application with trip and location workflows. |
+| **Lorry** | Worked on a logistics platform supporting shipment and delivery workflows. |
+| **Elite & Smile Lab** | Worked on healthcare apps supporting clinic and appointment workflows. |
 
-## 📱 ReactHive  
-A multi-module mobile platform that includes:
+Explore more projects and experience in my [portfolio](https://www.abdayyoub.dev/).
 
-- Social interaction platform (posts, comments, reactions)  
-- Tourism and booking system  
+## Open source
 
-**Tech Stack:**  
-- React Native  
-- .NET Backend  
-- Angular Admin Panels  
-- Firebase Notifications  
-- Azure Cloud  
+### [react-native-keyboard-sheet](https://github.com/AbdAyyoub96/react-native-keyboard-sheet)
 
----
+A TypeScript-first, keyboard-aware bottom sheet for React Native. It keeps headers and footers visible while the middle content scrolls, with support for iOS, Android, and RTL layouts.
 
-## 🏦 Al Rajhi Bank Applications (Ejada)
+## Core toolkit
 
-Worked on enterprise-level banking mobile applications used in production environments.
-
-**Responsibilities included:**
-
-- Financial dashboards  
-- Transaction systems  
-- Secure authentication workflows  
-- Enterprise API integration  
-- Performance optimization  
-- Production-ready mobile delivery  
+**Mobile:** React Native · TypeScript · JavaScript · iOS · Android  
+**State and integration:** Redux · REST APIs · Firebase · authentication · push notifications  
+**Delivery:** Git · CI/CD · Xcode · Android Studio · TestFlight · App Store Connect · Google Play Console
 
 ---
 
-## 💳 Emkan Finance (Ejada)
+## Let's build something useful
 
-Financial services mobile application integrated with banking systems.
+I'm open to **freelance projects, product collaborations, and senior mobile engineering opportunities**.
 
-**Focus Areas:**
+Have an idea or an existing product that needs a stronger mobile experience? Let's talk.
 
-- Loan and finance workflows  
-- Secure system integration  
-- API-driven architecture  
-- Production deployment  
+🌐 [abdayyoub.dev](https://www.abdayyoub.dev/)  
+📧 [abdayyoub96@gmail.com](mailto:abdayyoub96@gmail.com)  
+📍 Amman, Jordan
 
----
-
-# 🚀 Major Production Projects
-
-## 🚚 Lorry Platform  
-Logistics and transportation platform.
-
-**Includes:**
-
-- Driver Application  
-- Customer Application  
-- Trip and order management  
-- Real-time operations  
-
----
-
-## 🚖 VelozTaxi  
-Ride-hailing mobile application similar to Uber/Careem.
-
-**Key Features:**
-
-- Ride booking  
-- Location tracking  
-- Driver-user communication  
-
----
-
-## 🛍 My Kids Place  
-E-commerce mobile application specialized in outlet clothing.
-
-**Focus Areas:**
-
-- UI/UX Design  
-- Shopping experience  
-- Mobile performance  
-
----
-
-## 🏥 Elite  
-Medical system for managing doctors and clinic workflows.
-
----
-
-## 🦷 SmileLab  
-Dental clinic booking and treatment management system.
-
-**Includes:**
-
-- Appointment scheduling  
-- Treatment management  
-- Patient workflows  
-
----
-
-## 🏗 Mawad  
-Mobile application for selling construction materials.
-
----
-
-## 🌱 RoyalFarm  
-Farm management system.
-
-**Key Features:**
-
-- Fertilizer scheduling  
-- Harvest tracking  
-- Farm workflow management  
-
----
-
-## 📱 Glory  
-Wholesale mobile accessories platform.
-
----
-
-# 🛠 Tech Stack
-
-## 📱 Mobile Development
-- React Native  
-- JavaScript  
-- TypeScript  
-- iOS Development  
-- Android Development  
-- Cross-Platform Development  
-
-## 🔌 APIs & Integration
-- REST APIs  
-- Swagger  
-- Postman  
-- Authentication Systems  
-- Payment Integration  
-
-## 🗺 Maps & Services
-- Google Maps  
-- MapBox  
-- Firebase  
-- Push Notifications  
-- Deep Linking  
-- Meta Developer (Facebook SDK)
-
-## 🚀 Deployment & Release
-- Apple App Store Connect  
-- Google Play Console  
-- TestFlight  
-- App Deployment  
-- Release Management  
-
-## 🧰 Tools & Workflow
-- Git  
-- GitHub  
-- CI/CD  
-- Agile Methodologies  
-- Debugging  
-- Performance Optimization  
-
----
-
-# 🎯 Work Philosophy
-
-I focus on building:
-
-- Clean, maintainable code  
-- Scalable architectures  
-- High-performance applications  
-- Reliable production systems  
-- User-centered mobile experiences  
-
----
-
-# 📫 Let's Connect
-
-🌐 Portfolio:  
-https://abdayyoub.dev  
-
-📧 Email:  
-**abdayyoub96@outlook.com**
-
-📍 Location:  
-Amman, Jordan  
-
-💬 Available for freelance projects and collaborations.
+عندك فكرة مشروع أو بدك تطوّر عملك رقميًا؟ خلّينا نحكي من الفكرة لحد الإطلاق.
